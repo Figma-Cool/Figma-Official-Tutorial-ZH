@@ -9,7 +9,7 @@ Users with Edit access can import Files to a team. Anyone can import Files to t
 
 Users with Edit access can import image or vector files into a File
 
----
+----
 
 Moving files between tools doesn't need to be painful. You can import a range of different file types into Figma.
 
