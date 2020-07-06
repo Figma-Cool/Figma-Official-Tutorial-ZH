@@ -1,5 +1,3 @@
-# Getting Started with Imports
-
 >**Before you Start, Who can use this feature**
 >
 >Users on Any [plan](https://help.figma.com/article/>209-understanding-figmas-plans) can import Files
@@ -15,7 +13,7 @@ This includes entire design files from Sketch or Figma, as well as individual Im
 There are many different ways to import Files into Figma. The best method will depend on what type of File you are wanting to import.
 
 I want to import:
-- [Getting Started with Imports](#getting-started-with-imports)
+
 - [Import images](#import-images)
 - [Import vectors](#import-vectors)
 - [Import entire design files](#import-entire-design-files)
