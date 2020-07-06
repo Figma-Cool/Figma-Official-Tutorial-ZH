@@ -4,7 +4,7 @@
 >
 >Users on Any [plan](https://help.figma.com/article/>209-understanding-figmas-plans) can import Files
 >
->Users with Edit access can import Files to a team. Anyone can >import Files to their Drafts.
+>Users with Edit access can import Files to a team. Anyone can import Files to their Drafts.
 >
 >Users with Edit access can import image or vector files into a File
 
