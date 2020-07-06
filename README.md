@@ -5,10 +5,25 @@
 https://cn.figma.cool/words
 
 # 当前阶段
-| 章节 | 原文 | 进度 |
-| --- | --- | ---|
-| 1.Import | 1.Interact with files ||
-| 1.Import | 2.Import files into Figma ||
+| 章节           | 原文                                              | 进度 |
+| -------------- | ------------------------------------------------- | ---- |
+| 1.Import       | 1.Interact with files                             |      |
+|                | 2.Import files into Figma                         |      |
+|                | 3.Import files from Sketch                        |      |
+|                | 4.Copy Assets between Design Tools                |      |
+| 2.File Browser | 1.Interact with files                             |      |
+|                | 2.Manage your Recent Files                        |      |
+|                | 3.Move files between projects, teams and accounts |      |
+| 3.Files        | 1.Files in Figma                                  |      |
+|                | 2.Pages in Figma                                  |      |
+|                | 3.Create a new file                               |      |
+|                | 4.Create and Manage Pages                         |      |
+|                | 5.Set custom file thumbnails                      |      |
+|                | 6.Rename a File                                   |      |
+|                | 7.Duplicate a File                                |      |
+|                | 8.Delete a file                                   |      |
+|                | 9.Restore a deleted file                          |      |
+|                | 10.Version History                                |      |
 
 # 参与贡献
 如果想做出贡献的话，你可以：
