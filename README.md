@@ -1,8 +1,31 @@
 # Figma 官方教程翻译
+中文版 Figma 官方教程
 
-gitlocalize：
+# 术语表
+https://cn.figma.cool/words
+
+# 当前阶段
+| 章节 | 原文 | 进度 |
+| --- | --- | ---|
+| 1.Import | 1.Interact with files ||
+| 1.Import | 2.Import files into Figma ||
+
+# 参与贡献
+如果想做出贡献的话，你可以：
+- 参与翻译
+- 帮忙校对，挑错别字、病句等
+- 提出修改建议
+- 提出术语翻译建议
+
+翻译工具：
 https://gitlocalize.com/repo/4975
 
-参与翻译：
+协作方式：
 https://docs.gitlocalize.com/how_to_contribute.html
 
+# 贡献者
+Yancy Min
+普鲁文
+
+# 协议
+Creative Commons Attribution 4.0 International (CC BY 4.0) License
