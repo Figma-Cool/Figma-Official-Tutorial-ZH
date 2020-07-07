@@ -4,7 +4,7 @@
 # 当前阶段
 | 章节           | 原文                                              | 进度 |
 | -------------- | ------------------------------------------------- | ---- |
-| 1.Import       | 1.Interact with files                             | ✅    |
+| 1.Import       | 1.1.Getting Started with Imports                  | ✅    |
 |                | 2.Import files into Figma                         |      |
 |                | 3.Import files from Sketch                        |      |
 |                | 4.Copy Assets between Design Tools                |      |
