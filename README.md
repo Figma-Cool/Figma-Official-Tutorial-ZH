@@ -1,9 +1,6 @@
 # Figma 官方教程翻译
 中文版 Figma 官方教程
 
-# 术语表
-https://cn.figma.cool/words
-
 # 当前阶段
 | 章节           | 原文                                              | 进度 |
 | -------------- | ------------------------------------------------- | ---- |
@@ -43,7 +40,6 @@ https://docs.gitlocalize.com/how_to_contribute.html
 - 使用 [FigmaCN 术语表](https://cn.figma.cool/words)
 - 使用 “你” 作为第二人称表述
 - 保持语言简洁，达意明确
-
 
 # 贡献者
 Yancy Min
