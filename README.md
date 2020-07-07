@@ -38,6 +38,13 @@ https://gitlocalize.com/repo/4975
 协作方式：
 https://docs.gitlocalize.com/how_to_contribute.html
 
+# 翻译约定
+- 遵循 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) 的排版规范
+- 使用 [FigmaCN 术语表](https://cn.figma.cool/words)
+- 使用 “你” 作为第二人称表述
+- 保持语言简洁，达意明确
+
+
 # 贡献者
 Yancy Min
 普鲁文
