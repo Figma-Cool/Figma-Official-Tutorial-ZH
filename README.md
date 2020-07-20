@@ -32,7 +32,7 @@ Figma 官方教程中文版
 - 提出术语翻译建议
 
 翻译工具：
-https://gitlocalize.com/repo/4975
+https://gitlocalize.com/repo/5058
 
 协作方式：
 https://docs.gitlocalize.com/how_to_contribute.html
