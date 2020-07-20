@@ -40,6 +40,7 @@ https://docs.gitlocalize.com/how_to_contribute.html
 - 使用 [FigmaCN 术语表](https://cn.figma.cool/words)
 - 使用 “你” 作为第二人称表述
 - 保持语言简洁，达意明确
+- 每人认领单个文档作为最小协作单位，避免单个文档内多个翻译者参与
 
 # 贡献者
 Yancy Min
