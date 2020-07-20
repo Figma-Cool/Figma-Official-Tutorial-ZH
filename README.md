@@ -1,5 +1,5 @@
 # Figma 官方教程翻译
-[![gitlocalized ](https://gitlocalize.com/repo/4975/whole_project/badge.svg)](https://gitlocalize.com/repo/4975/whole_project?utm_source=badge)
+[![gitlocalized ](https://gitlocalize.com/repo/5058/whole_project/badge.svg)](https://gitlocalize.com/repo/5058/whole_project?utm_source=badge)
 
 Figma 官方教程中文版
 
