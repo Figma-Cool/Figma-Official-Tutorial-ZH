@@ -1,5 +1,7 @@
 # Figma 官方教程翻译
-中文版 Figma 官方教程
+[![gitlocalized ](https://gitlocalize.com/repo/4975/whole_project/badge.svg)](https://gitlocalize.com/repo/4975/whole_project?utm_source=badge)
+
+Figma 官方教程中文版
 
 # 当前阶段
 | 章节           | 原文                                              | 进度 |
